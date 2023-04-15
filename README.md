@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/110756551/232202648-e74bcb6e-360a-4477-ae72-5d278c5853a0.png)
+<!-- <img src="https://personal710.files.wordpress.com/2023/04/logo.png" alt="logo" height="150" width="700rem"> -->
 
 <h1 align="center">Hi 👋, I'm Ashutosh Rao</h1>
 <h3 align="center">A passionate frontend developer from India, love creating pages where I’m able to actually create enjoyable interactions and experiences for everyone.</h3>
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14zLnvTnRc8u5qkMR5uyVp4dSPHzbnCvt/view?usp=share_link](https://drive.google.com/file/d/14zLnvTnRc8u5qkMR5uyVp4dSPHzbnCvt/view?usp=share_link)
 
-- ⚡ Fun fact **I'm funny😒**
+- ⚡ Fun fact-> **I'm funny😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
