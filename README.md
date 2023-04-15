@@ -1,5 +1,5 @@
-![logo](![image](https://user-images.githubusercontent.com/110756551/232202648-e74bcb6e-360a-4477-ae72-5d278c5853a0.png)
-)
+![logo](https://user-images.githubusercontent.com/110756551/232202648-e74bcb6e-360a-4477-ae72-5d278c5853a0.png)
+
 <h1 align="center">Hi 👋, I'm Ashutosh Rao</h1>
 <h3 align="center">A passionate frontend developer from India, love creating pages where I’m able to actually create enjoyable interactions and experiences for everyone.</h3>
 
