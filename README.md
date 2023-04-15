@@ -3,17 +3,16 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Rao</h1>
 <h3 align="center">A passionate frontend developer from India, love creating pages where I’m able to actually create enjoyable interactions and experiences for everyone.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rao-ashu&label=Profile%20views&color=0e75b6&style=flat" alt="rao-ashu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ashutosh-rao.vercel.app/](https://ashutosh-rao.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://ashutosh-rao.vercel.app/)
 
-- 📫 How to reach me **mit2021066@iiita.ac.in**
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/14zLnvTnRc8u5qkMR5uyVp4dSPHzbnCvt/view?usp=share_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14zLnvTnRc8u5qkMR5uyVp4dSPHzbnCvt/view?usp=share_link](https://drive.google.com/file/d/14zLnvTnRc8u5qkMR5uyVp4dSPHzbnCvt/view?usp=share_link)
-
-- ⚡ Fun fact-> **I'm funny😒**
+- ⚡Plus a fun fact-> **I'm funny😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
